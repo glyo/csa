@@ -1,0 +1,776 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: CAM_OO_AUTO
+Build-Jdk: 1.7.0_55
+Created-By: Apache Maven 3.2.1
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/End Action.xml
+sha-256-Digest: TwFEpWoyI61+mAcnhFqTB1G+VKSQweHaQwGZXAdJYI4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About Datacenter.xml
+sha-256-Digest: jsBXVtiX1gfLWHOs/axpnlB+NyUi16mvXlwFFYgsxD4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Query Templates.xml
+sha-256-Digest: AaeTiSbyz8PdY+SQhrGpJA2jUkNX4qZxVABIxYaNw7o=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Available Datacenters.xml
+sha-256-Digest: MFtt1idOHPwwTOaVMG9PqoixWpdTmbui8lR6PmNxOy0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Simple Compute - Server Group Modify CPU and Memory.x
+ ml
+sha-256-Digest: 2UvTrFjUmlQVCuSmzQRbbH/z+z6ygagoXe1a23jCo+g=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Deprecated/vCenter Deploy VM from Template.xml
+sha-256-Digest: 2COPZHqXBUSRwWgXX/lkpDOZHT5/AuxCt7Kgh+YAhOI=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Revert Snapshot.xml
+sha-256-Digest: i67OPcv9wjaabiIaZi2BYnCeW9559iR3XPGd1lupZ4s=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Clone VM from VM.xml
+sha-256-Digest: 0Kr/IEM1IJ0XeKxYJgcHCGJhogz/347AYcpf6N7SuNo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About Datastores.xml
+sha-256-Digest: au/no8xD/jLOSxX7CvKxl9LUFsYEhgTbQLTwK6rDCXk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get Host Networks.xml
+sha-256-Digest: jpeNFvzqIuYwdqVdtpNLXP014oKhHcaKJDdKHDhW8aA=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/List Custom Specs.xml
+sha-256-Digest: 1LGmff0HfWa3ivPU7CRt2yDjqo/lT9+zz4Kx8smZIXo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/vCen
+ ter Server Group Modify CPU and Memory.xml
+sha-256-Digest: 9R3OPMCZ7y3Di8JnqX51Nhd8p80wx7QfcNHLBnFI/aA=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Create Folder If Not Exists.xml
+sha-256-Digest: e8MHvav9dTFNlGMamTQYjIs5FNq8eBmN5TZ+HzcU1Tk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About ISO Images.xml
+sha-256-Digest: fJRmHsI6WISyRZ9jpfdeA4OU1RzpIDTFS+2+qb4auuk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Validation/vCenter Simple Compute - Validate Input Properties.xml
+sha-256-Digest: e4g85Vu2YzYtLQayinuCJE+B6cWoDdVnRH1JZ9fXZA8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/VC Delete Snapshot.xml
+sha-256-Digest: 7Bt/fmldqdHuEH4suOdSpLdTaio2Iag92XjQ1gJ1Ybo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Get 
+ VM Info.xml
+sha-256-Digest: pSYVDkE6X9HcL2jjsyVDhduXK+vyM0fLeRSwvm7a7S8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About Networks.xml
+sha-256-Digest: Iaz5A09WDuvUIL/ooV2K477Q4rcga64TvLP0+9mVa7U=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Create Deployed Properties.xml
+sha-256-Digest: rEUlXyciRB0pe17TB2I+692kBlVLS+2Cim78l4vGOE4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Get 
+ Total Resource.xml
+sha-256-Digest: 1EqwpbC0G70HTaqgrcaRBDDdm0ZEP1NeWxOC1dHMxvg=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/VC Revert Snapshot.xml
+sha-256-Digest: kKOtXk+KcpFvbFE4lhOTMxJE8GAh55ZiB0GnoYiBHrw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Get 
+ All IP Addresses.xml
+sha-256-Digest: Stfhfm72jLyL3nYV3lPysJQMD7iI8pc7v5ePPfAf2oY=
+
+Name: pom.xml
+sha-256-Digest: tVwFXLugMqF3W8yk9A6tM5w8gfSL2aQnr5WRiqGTXmk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Get 
+ VM Name.xml
+sha-256-Digest: MOC2hg1pkb5EjotHo1asNRKCx0ioQB4teDddcqAGUQo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get ISO Files from All Datacenters and Datastores
+ .xml
+sha-256-Digest: hRATS4hQwMDacQMzzEfjIt5qxIsko2Bui+yz2t/Bj3Y=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Subflows/Get All Details for Provider.xml
+sha-256-Digest: LNS83gHw41/a8LGLiAVMKjZyCs/gaesCDAwgv54NKQw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Subflows/Get vCenter Version for GuestOS.xml
+sha-256-Digest: l1/iYtnd+wj7zpIrqa8sfQMAQE75QtHMr2v0zzQl/t8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/List Folders.xml
+sha-256-Digest: LmsUmCm6EZznG/nCpwYHizuxcEqM4k8mTmzv9qlxxIE=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Simple Compute - Server Group Modify CPU and Memory.xml
+sha-256-Digest: 5OdgOR8oR8ZkjaZrxl3heDkDwzZgkOFd1PzPpwFd2LQ=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Buil
+ d CustomSpec List Xml.xml
+sha-256-Digest: YmHsc9VZnCFc4GVOjpsOBgdZTGP3HCU6Udhldve9qnM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get Total Progress Steps Count.xml
+sha-256-Digest: lQpa7XsXbKj/ffTwN6k3HA3z+R3iqcvYN0hyiu3L03Y=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Query ISO Images.xml
+sha-256-Digest: yRiaO1lHXzFT3LxsBf5iUp8DJTSV7kuYGMLW1AZB1oo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get All Snapshots Details.xml
+sha-256-Digest: xe5XvADItJIaa4/yEPaCDApeMHIlwQzXga8YXRNhyyI=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Virt
+ ual NIC Component Option Resolver.xml
+sha-256-Digest: E2p1SbRxB0/YbRPMTNwlVosCngIJS4NYJLzMr0UoRmg=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Delete Snapshot.xml
+sha-256-Digest: 85B/F6ZGS4J5fFVd8mwho6d296ulRt3e457WOtIQcsk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About Folders.xml
+sha-256-Digest: tF5EOt9T9m7PNDEA8f3lZnpirkpQx2DUwUPy/cBPmkw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get All Datacenters.xml
+sha-256-Digest: lekI75BAthz45pVFecrB2XcT5q6T9DSBQaKaVPY9gjU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get DataCenters.xml
+sha-256-Digest: PP/JS0dBWsRAuO7lWTzCDs6Z3VkSvvm1Q7ucaNVW2MY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/vCenter Create Clone.xml
+sha-256-Digest: 3PLpTT2CfV7IT0lgsSYFQY5ReiDoK7R/p2i5nb++mLk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get All Hard Disks.xml
+sha-256-Digest: A5ED+3yKcqYcwnYrh6I6aD8slNEIeC/6cv50wDLk0is=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter Unprovision Server.xml
+sha-256-Digest: GTatKERCWs7Tqrhb0wmIPx9KwcOdgTGSZvW2ZsSuWdU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Get All IP Addresses.xml
+sha-256-Digest: wlueNPTHrtLQ0JOJXVjbBBhT/ukcSKcVZa2sQkw0wMo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Server Compoment Option Resolver.xml
+sha-256-Digest: /+eWo/KtR32bRxhyG9uh+EASiNLk4WuCHO0kNbHLU7w=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Stop Server.xml
+sha-256-Digest: oVWMKsOsgwqEPl1V5P23lTXI3ehmBO0pTNQU6dBZK4U=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get Hostname.xml
+sha-256-Digest: LN204rb9tTGGmuDGGjhcEXIy7aoFJH1qcFARQlk/YnU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Is S
+ tatic IP Request.xml
+sha-256-Digest: bboTSegt4fc1tsquHSWRbB5r5y/3n54/NKe791Ia92w=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Build CustomSpec List Xml.xml
+sha-256-Digest: SDtxBDqo4Sa3oxRJxOuPB17pagGE9MitXPVQGlQhHms=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Query Guest OS IDs.xml
+sha-256-Digest: RtGc0zxiVyqxiX7nsXxBVL6ZxJGBtP5bVagGbTTK9kw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Reboot Server.xml
+sha-256-Digest: hKBGCb1rWh89QrSgWd2PipFAxaAXL6m/q3cY4aEQ2Og=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Update Deployed Properties.xml
+sha-256-Digest: K81XkFITIy0ZyePBJ8K6DKFp4eHEOfJrYt+s/hy3w4U=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Power on VM.xml
+sha-256-Digest: uy9B+EtQy90lhCwDg8DAdXK/1pgV0S6I+/Y3VITxukk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Vali
+ date CPU and Memory.xml
+sha-256-Digest: rritSFSrB+HA9POIABYAbxZNqFDD9UnkgC+wQ1McXFA=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Available Customspecs.xml
+sha-256-Digest: Lp73aNzPeMqF7YsWW1ishR4oozoEmJb891rPU5IKzvk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Datacenters.xml
+sha-256-Digest: oHdfIIIIFUAIOrbKNDu5fTCS7VCj9PyKrASjNKdLmvM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Get VM Name.xml
+sha-256-Digest: NTWYSDdodk+mvovjL8+M6HG3lxfoZonZXOXMcyzNWWA=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Query Custom Specs.xml
+sha-256-Digest: eiz3M2QC2hHAQRnhPy8FMo28RfSRaPOJNE52fgMNSMA=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Query Templates.xml
+sha-256-Digest: +vrQwLfJYKPne+UiCJ/poOnQGGSGZV+9g93ARhYd4no=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Reboot Server.xml
+sha-256-Digest: aebUda2YTnh3lCyFuH7fsxPiSim1r4nxZ4U703yzeww=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter Flex-in Server.xml
+sha-256-Digest: RE386Bp9EQbLgmuIVGYhDvOvK/9SFi/g+APBvnzVLE4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter Destroy VM.xml
+sha-256-Digest: iNZoq6Ya/gxNvc0uPDHLHhAQzh2DQAfQVUNrj5OTNBc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/End Action.xml
+sha-256-Digest: ktJpfVbZm4/4bsiKxfvlQTstcaL4tvf6V9z8rqwenPo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Delete Snapshot.xml
+sha-256-Digest: 94gEWkwSHCNH0KaCQzyHhBxzwP9IcaGXeAdi5C16i/Q=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get DataStore Name.xml
+sha-256-Digest: TkxcVoeN/cOFErJdibfNmPCrKi+CG3sYW6azC/CgJOo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get Total Progress Steps Count.xml
+sha-256-Digest: zdRqep3jPW5Ty+yRSTdcKyJG0RS8qwDbDbxfMXfj/j4=
+
+Name: contentpack.properties
+sha-256-Digest: r5d6FtT77BqRWC/EgWujji+BETXEdY6TbSBQ/O8QkEQ=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Refresh Snapshot.xml
+sha-256-Digest: QJuqOscSXt/zlv33Dskd4d8ru9mcPARFSkT+dp8gw4o=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/List OS IDs.xml
+sha-256-Digest: L6AjtXnhIcO5jIyNzg/qU+2pq0PwHGtRosPuilX1V44=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Vali
+ date and Update Resource Pool.xml
+sha-256-Digest: /NywV0F4QrIDBev3UtTpb2CQCfuS9apdHJ/NiMl1tv0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Stop Server.xml
+sha-256-Digest: 1WYB+IuC/CYU8sw67sQ8ud8wEd+URhBql2G6dCmrY7s=
+
+Name: META-INF/maven/com.hp.cam.csl/vcenter-compute-citype/pom.xml
+sha-256-Digest: BOtqQ0+phITqLX5iF2Vxgicw4ouc10Ne3izx9fUkic4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/VC Get All Snapshots.xml
+sha-256-Digest: s4lOMhLGl17F+5GudtTTqUF32cg04tBYtMJej1nvqZo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get Host Networks.xml
+sha-256-Digest: j342YI7FtK69rXHLUPKssmmTF3cQQMs/6kP9DSaBurk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get All Snapshots Details.xml
+sha-256-Digest: 6lgzsKlUZohDfZvQ2sqTqbNtBt38MNV4ns1AH95ORfc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Update Deployed Properties.xml
+sha-256-Digest: M4JqLRK3DVCP+chx42Xq+SLjlXH9M6INqaxo2oppb2E=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Server Group Flex-in Server.xml
+sha-256-Digest: KTJgVmIg6yyK6XUiCDkaQZdF5qzHO6A+rfffFViiqBw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Revert Snapshot.xml
+sha-256-Digest: jtBAz/iLK73WoMa5JiPGd3Gcby5FWE5ir9QY6xlrjw8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get ISO Files From Datastore.xml
+sha-256-Digest: 9gLGe2f5l2CGaHHQxrELgcaAMTvhJbn8T3jLeMrGMF4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About Clusters.xml
+sha-256-Digest: qblpAXIuXY+M4hdyEHRPMYo6Nn7jdEZu44RvrLeehYo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/List VMs.xml
+sha-256-Digest: BYeg2ytNcr/O1u7XU6k69qZgy8IMFUxZdCfI1+38PhQ=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/VC Create Snapshot.xml
+sha-256-Digest: vdFQTC35siDJChVOxX13VQStSTtqBWuKfyyg58l6Nns=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Validate and Update Resource Pool.xml
+sha-256-Digest: W6gFvS6T1/K7xIn/iHU5AzXP7zZVNMQewBz0r4Q5/IM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Start Action.xml
+sha-256-Digest: M+puJOnHtTino4HceyAQ1QtYIXZ45sHYwdCrb/IvFp4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Validate Required Inputs.xml
+sha-256-Digest: Cmsc2ECUA8lnaPB1QQOaWSb3JLVWCJ6XnOIyb3Nc99U=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Clusters.xml
+sha-256-Digest: 6ajVrj3bZ2pHi7ZJ5fdi6o6HtEzkba1W8DXVVq8ewXk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Choose Customization Specification.xml
+sha-256-Digest: Iv3yA6/915WXHmtFD7jmUDiXe6O0AFjfu6eiwQwFkGI=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Crea
+ te Folder If Not Exists.xml
+sha-256-Digest: Rw/S1y9EpeNIlTq4BZMJFpqazdnMWIuRRIzB4bUnnuo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get Artifact Property Ids.xml
+sha-256-Digest: NAIL2bNSRHtce5mlPUGD6VOunx01JaD5TkgL7Q+oHTw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/vCenter Unprovision Server.xml
+sha-256-Digest: xMZRWT0FH5zZy/KYA/3s5g6kiUBHTk2xpTbrNTWrOJM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Datastores.xml
+sha-256-Digest: J7veWtOSEyXyX8mhrzDYhPG582fnBMFteBtG+6cHmGI=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get Datastore Info.xml
+sha-256-Digest: QLKovOvQmBgosrwfmnqUBCs32mXX3CmHTviuR429ebM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Mount ISO.xml
+sha-256-Digest: Wmi5L3uBPiUo82ARnZUPqc81xT9LBaT8BG5N6RAHES0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get All NICs.xml
+sha-256-Digest: b2+ORU3iWPehfUMym/JeOwZpeCpDIl+UyvTwoPoIWwk=
+
+Name: resource-bundles/cp.properties
+sha-256-Digest: d32+7XNPyERRY9QLQDOB4NnQ4pafXSidDd52aYpKG14=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Virtual NIC Component Option Resolver.xml
+sha-256-Digest: spASRf/Vz8XktwStPyCUhDMoiM92Nr3MciYcb5NvZI4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Get 
+ Deployed Servers.xml
+sha-256-Digest: vvUfxaeawOH6K5RIAylNCGcxhMwOdKPtfaf4ZH2cXBw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Update Service Component Property.xml
+sha-256-Digest: LR42gOQXZrzWTOXWI6thQBWKaFCrgNwqJe3sIM5VQu4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Deploy VM.xml
+sha-256-Digest: ys4HeMKeqiOOZgpO8pFloLAhDrL/uhy4gGcoLDbi7OY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Restart Server.xml
+sha-256-Digest: LdhfJ/rvZ45HfAV4t7fBLnHUmrArRQqpgvcn0NYoxMc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Subflows/Get All Details for ProviderId.xml
+sha-256-Digest: wFODaqJIcTwuKyRIYy+UK1pCAZ8sKHj+iGzQDkb50Ys=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get Artifact Property Ids.xml
+sha-256-Digest: KLtDiqYDfHfL3tkVua4TfgQRcKFR5mm/uzoTKf+N44A=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Query ISO Images.xml
+sha-256-Digest: zkKhp2nMLIhCkFvb4AzrrvSgLliBhE5SglgSWjF5gJ0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get All NICs.xml
+sha-256-Digest: 5m/31kr3/DJYrPCABwbjsBNESSA4P91EYFUbgKP7ReY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Update Provider Property.xml
+sha-256-Digest: PAGFW5Jr8US3fFb41Wd5H8frVwVaoT/cz2fkZWPU5BU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter Build Fixed IP CustomSpec XML.xml
+sha-256-Digest: IsmA9m3b9+G7/vwhcL3htvInD5ausyU+GcNsMjC2IU8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Get 
+ ISO Files From Datastore.xml
+sha-256-Digest: 6hyY1A5TL04pKGLzIr02axQwxUZ9syI356FaVCnKks0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Create Virtual Machine.xml
+sha-256-Digest: YvGO2+QGHU7qnwrwzPTqHCjbdIPq2jL3gj3I1abIM10=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Validate Required Inputs.xml
+sha-256-Digest: KtAOUsrZMwCdG8HaZm8rP9VRjUFqIwehqYzWOothcNk=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Crea
+ te Virtual Machine.xml
+sha-256-Digest: gVZY1D4CC6ulhg0w6ANv1PGQIS1PTpob7kM6M36AFlI=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Simple Compute - Undeploy.xml
+sha-256-Digest: dSm0mpA9N7jLbt/HdDvPs3Zbh8gOdwo8IeoLBH6u4EY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Available Templates.xml
+sha-256-Digest: 5CrDKVeQxhQNMn+NWOVG5oawQXjdrTTcKCNGCeWi1C4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Query Networks.xml
+sha-256-Digest: zf/DtjWsMio6CYQ9py/snotH6cb+hiCJvo66nq0snPs=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/vCen
+ ter Set CPU And Mem.xml
+sha-256-Digest: /Nga7+PgLQBT/pMDWTZeygDonl30kVXhDc2UTeqZHi4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About Virtual Machines.xml
+sha-256-Digest: B5sUkAcFs6m+hudlg+BOl864Zw86gRrrS10KdZu1Etc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Create Snapshot.xml
+sha-256-Digest: I7+G2EUumnKtx1vIVYNiDdUF8J/4qiGHkk3J5sa6dOM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Update Virtual Machine Info.xml
+sha-256-Digest: 7k9nbJAEx/dSDEtLWoofRnH624ef0B2/i6MGBhUMxlQ=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Get Total Resource.xml
+sha-256-Digest: 5K3jDKdCSdtPVAm1jnbFqzWPHpKgFHXq+BOsCjqVdso=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Subflows/Get vCenter Version.xml
+sha-256-Digest: 1L1lwMeZ4F/fP2Asgy8bFU4JZ/6uVkxU80/dGP4vSVw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Gene
+ rate Id from Subscription.xml
+sha-256-Digest: LdbFWpOb1vAfp1sHovhGkNmrsRTiZfF5JBpu+19grEs=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Create Deployed Properties.xml
+sha-256-Digest: 64SG91DpO67A0QZhQkLbIxqVXD49EdxIAlFkcUFAR28=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Serv
+ er Compoment Option Resolver.xml
+sha-256-Digest: glMtJwzIsFtULTkwETDVsiVb83mNe07cZS37ZEp1yiw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get VM Info.xml
+sha-256-Digest: kt2Xp/Y9JigeU24MmnOY7rZL55CJupf4XIb+k0R4ALU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/vCenter Destroy VM.xml
+sha-256-Digest: 6bRL21HCfpVOfKu06dtyxQTLJKqeCxMGoGbt5TI8Wcc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/vCenter Flex-in Server.xml
+sha-256-Digest: bXxODzE1+epafPXcocOhvoYztSmopxpS+uv/1FllgmU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/vCen
+ ter Build Fixed IP CustomSpec XML.xml
+sha-256-Digest: GibGQSI4mN/h11H0UFUglFIpKP5WWng//zoQXhFcwoM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Create Snapshot.xml
+sha-256-Digest: qQHVdBNxqg3bvruQ2QbcUGYK+Dl7zXO20AAE2HSI9PU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Update Virtual Machine Info.xml
+sha-256-Digest: Hunxr3DWJ97ehHnkFzfLEKr4UJOOmCYNPKXnEXAImgY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Available Provider.xml
+sha-256-Digest: tGZqJCOC+5iNfgufFAy3c+ygCh35/2DilvwXkZuZ0HU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/VC Get All Snapshots.xml
+sha-256-Digest: I4cUftrtlzi4kLRSfYgfaIyDfOGxFMY35SYRemi+i/Q=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Restart Server.xml
+sha-256-Digest: uo6OhOk8J572ilUu8sxEMPGY4NawdmuZKWt+SSRuCng=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Update Service Component Property JSON.xml
+sha-256-Digest: mC6iuEDWIbZpOHatwmxfuQlxhe/AtzUGEUDltguRAF8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Update Service Component Property.xml
+sha-256-Digest: aPjcK4w+or5Wsv3H0mQy1/djnAYQ9aKDX5jKsyC95SU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter Set CPU And Mem.xml
+sha-256-Digest: zU2z0BaxEtS1sFglZPIeaKGTe5o1gsRSj44KG1IhHE0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Deploy VM from Template.xml
+sha-256-Digest: PFIdpy2Z2cd31tVLxGHJ2fCvJ7zIcY70eR3v/BdRzkQ=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Update Provider Property.xml
+sha-256-Digest: zGGHbbrqPjfqyNwUiaHvDgcSEiqCnV9gOQqfj/PlLWY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/vCenter Get Device Count By Type.xml
+sha-256-Digest: wEnGYJ2Qb4VfeGsEmgIkusZyzqe+XOkkmkZlSPhvL4g=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter Get Device Count By Type.xml
+sha-256-Digest: NZTgDD/JHhDu9GJn4z8CD+ouuyQ38XkHzyzZepEAVYo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/List Templates.xml
+sha-256-Digest: TXZxh1kdcNzX2Q73aKiqbYHIEJuDjUGibXL+nJ+ao18=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get ISO Files from All Datacenters and Datastores.xml
+sha-256-Digest: tw+DDVwggZChArEkN6QwgSJZBX4jttwx/XONwnwQ+Sw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Create Virtual Machine.xml
+sha-256-Digest: fO56SZp7e7SSdkBaqybubvATlOJ+BXI6z8m6CJ5HcY0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Update Service Component Property JSON.xml
+sha-256-Digest: A+TDeipf1AI3h5vpHTQw9g0k21aMA8QQb3D0nu5f8yw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/List
+  Custom Specs.xml
+sha-256-Digest: J4OZnAYWXmw0YQF2Bjp1sd1sZzJk+0sVr3rwlBeKTwY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/VC Create Snapshot.xml
+sha-256-Digest: b9vJ6PmLmgPCTW+tFuEikUSIBd8OgUophLU2HA0Hpp0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Coll
+ ect Properties.xml
+sha-256-Digest: JMPmXPwiEbjE5Z6qJMAMCslNK7e0CIYOUaYM3NGocno=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/vCenter VM vNIC IP Configuration.xml
+sha-256-Digest: OQg3rQ589JOLmDtfnbXx5iYxaOhzPUoHHEcOKeeosIc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/vCenter Create Clone.xml
+sha-256-Digest: OxPX6MSqkYuz6FmRds1YQDBIvzeNgRqCFzNdWptkf00=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Collect Properties.xml
+sha-256-Digest: B8xBmBehugYS15jMFRPWgUqz6WBJMTxNCZboR4KKGpM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Start Server.xml
+sha-256-Digest: lrmzHw9ZIFN3Gaab+zq/CUTz/umEX2EvDn974mX9AXM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Query Networks.xml
+sha-256-Digest: wKD+gPhc3SZjQpNyU6+55yKu4FGvXXamLdljYy0BioY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Suspend Server.xml
+sha-256-Digest: S+1gy/7Hca38prw4TOq8HuDGw31kbEEVRtt3tkXh2HU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get All Hard Disks.xml
+sha-256-Digest: WkcMN0RWz6RkUeBlfLPnOwx+MFnNECWXv4R1E75kQdA=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter Set Power State VM.xml
+sha-256-Digest: KRN6DjWv/BQTZ+dYD03CwzW6bW0H0SseCkwiG8Z2WLw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Choo
+ se Customization Specification.xml
+sha-256-Digest: 2y8eROdaPjhwvo6xVO7SEBdAz09jZHNP2qN6GMUEsKs=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Query Guest OS IDs.xml
+sha-256-Digest: wciqy/KJeZFjcYtyuzfF2t2V/ihuxHW7KBIFFf7SFsw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/vCen
+ ter Provision Server.xml
+sha-256-Digest: rewxiKqxAHB1C6h4b/eNfzGLo8dnJbXgtFyXql/4omM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get Hostname.xml
+sha-256-Digest: 4hb9NSrw+w90DL1VHvlBnDgS0g1ILtqOec8xPNDozG8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/vCenter Update Server Component Properties.xml
+sha-256-Digest: tyA+n24Vdd9L2dPekjJwqR6qERe0C5+TkBWfZTHvHqU=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Create vCenter File.xml
+sha-256-Digest: p3xCoA7Tgjdo33i2bc4c37LLxNHjJfXClK4PlLiW++s=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Action/vCenter Resource Sync.xml
+sha-256-Digest: uRmP5vd+rlNU74S5Hrs0DGq8eJS6ZiF+Zgp3MFlZk7s=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Create vCenter File.xml
+sha-256-Digest: FZG4wx7QGgodtz2i94XF7fnnDGR2n7fMyNN9emgwpz4=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/List
+  Templates.xml
+sha-256-Digest: XVZxDTVcBpgCsFTw+FrXgn2e3athgmAYwKZN/baYdPQ=
+
+Name: META-INF/maven/com.hp.cam.csl/vcenter-compute-citype/pom.propert
+ ies
+sha-256-Digest: KTH1JMgMJwlzLxdVIEu2KdYsDyNOaPpi1UpgZ5V0rQ0=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Generate Id from Subscription.xml
+sha-256-Digest: /FFPODuaLy6Ys0QjiHw4Nz73HljnCXBmCyC/yUYmgro=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Cust
+ omization Event Status.xml
+sha-256-Digest: GOXeOUU30pG/E0nOhE8VB0NDdzkudweRiipxg2phBhw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get DataCenters.xml
+sha-256-Digest: gOwj0X8DbTuM8JqzL28rB/+seQLUaJ0A2N/6zCEZAHg=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter VM vNIC IP Configuration.xml
+sha-256-Digest: H0ekZigsebyIPXuGQAUoAbk6XmBq8z+Koh5yMI3+6Os=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Validate CPU and Memory.xml
+sha-256-Digest: MCWvSLqeoABjCBD8ezh2V178JBMK4Y2XvVBtIQKQrMc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/vCenter Update Server Component Properties.xml
+sha-256-Digest: mNZLlaX3qsSfmPi4kkqw3nStvPJFJvMHu93w8GWJ7ek=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Update Remote Console Settings.xml
+sha-256-Digest: aNUoil6auGggS+VqE5kgzvBUzbKsQKHnDMCatq10ZEE=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/List OS IDs.xml
+sha-256-Digest: R1Vua2rp7BwUoRY7riQdFRDVc9ajXmP1RjHME2RI/us=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Server Group Flex-in Server.xml
+sha-256-Digest: 83CgXfta/v7UAlpeDcbuabV7V0K38ymWXjCUKqEXSaI=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Update Remote Console Settings.xml
+sha-256-Digest: GAc1lOwR5Xd5jYle9VYEHcj/K9H2PlDpKyhX8g7j5gY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Start Server.xml
+sha-256-Digest: TNdv5YCltErBv4KiatL0UVxpZsN1sFLLSQGtuU9TzZ8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About Customspecs.xml
+sha-256-Digest: XVP0V9BLnE5Xc3cOIj/RKxuTIqvmHAFGds30jQxNd7U=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Suspend Server.xml
+sha-256-Digest: nwNy79tz8VrnN9XfhETsAZamWmyVQsTi8TNFz4Bl/tQ=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Deploy VM from Template.xml
+sha-256-Digest: bT211Qxeq4Tq+4EkLmFR/UOySiehIZgclipEpLhDQgo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/VC Revert Snapshot.xml
+sha-256-Digest: mu8PYpx3WRVKB0WENxz2IWftkIKk3kMJquHh3w7ycqc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/vCenter Provision Server.xml
+sha-256-Digest: ZyzrJ/N7WJImlbD8PxpiCfPnMcQfPf87lqDbASJZnag=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Resource Sync
+ /Deprecated/Get All Details About Templates.xml
+sha-256-Digest: GYnqvBnuQ421R+5M3yya1Unv9Ibv4xyLTZRayy2zshc=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Actions/vCenter Refresh Snapshot.xml
+sha-256-Digest: w+S7q3AzS7M/kg1ZmTk1Qj2TAEMKOlskrwRRu4c+NFg=
+
+Name: Content/Configuration/System Properties/VCENTER_FLOW_WAIT_TIME.x
+ ml
+sha-256-Digest: JN37HkEukBLcwDcz8pKjDc1pI5KfhC62/FFUTDOZmhY=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Actions/vCent
+ er Simple Compute - Undeploy.xml
+sha-256-Digest: FgvWO8Y6jKvVX98ESwXoRKiB9TU4tSUYw0eqACsZaDE=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/VC Delete Snapshot.xml
+sha-256-Digest: H5IDtL6mb5bMyt59GucQTY2pnvPRIF0lIJ6Wj0CnFLQ=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Get Deployed Servers.xml
+sha-256-Digest: fRTMJ6qyY8l3VvCvFRQEwt83J2SFXqIsIv2MIqbJ2F8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Get Datastore Info.xml
+sha-256-Digest: 2kDWpkroKGEDXN+TecrZ8NE9UZxbYsI/s1oY7q6gggQ=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Get DataStore Name.xml
+sha-256-Digest: FpHYdjaja3hKv9uZ0inqpviwsz7BOlhsXWiLTHFB96s=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Customization Event Status.xml
+sha-256-Digest: zXrwmorIi/oNr/dQu4K7IMnfuGB5BipFFtdtynbv24w=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/Power on VM.xml
+sha-256-Digest: AClbu+G+rBElFdkAM3vgJB8ElfMCcAim5Y/zLW+asGo=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Query Custom Specs.xml
+sha-256-Digest: x0yMvSzFppQAhMNXaDJ186VcflZxdbJVbuQiQkS1vfM=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Subflows/Depr
+ ecated/vCenter Set Power State VM.xml
+sha-256-Digest: PHFUD1o50ZzE8yQJzRZZUs6/1u4RRg3qLHqwlVYfdy8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Deprecated/vCenter Simple Compute - Undeploy.xml
+sha-256-Digest: 9y1wUCaw4vSqmhQH03vYo1B7sKcBbLQl5NnIk2ifVlw=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/Deprecated/Start Action.xml
+sha-256-Digest: 5jYdlAsvxDWqmSOYcP5ZnEqa71a4BrvvDB7MujKhF1Y=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/BasicCompute/
+ Subflows/vCenter Server Group Modify CPU and Memory.xml
+sha-256-Digest: YjKAb+hvbEqMaCUf+hUDznk24NIMuSz73XMhiUOwIB8=
+
+Name: Content/Library/CSA Content Pack/Providers/vCenter/Validation/vC
+ enter Simple Compute - Validate Input Properties.xml
+sha-256-Digest: qW2qkx4MslTXeDsOBCVY7GQpalrGoOmW5qCA6EJ4s6s=
+
